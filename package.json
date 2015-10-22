@@ -1,0 +1,24 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "express": "4.x",
+    "mongodb": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-express-server": "*",
+    "grunt-browser-sync": "*",
+    "matchdep": "*"
+  }
+}

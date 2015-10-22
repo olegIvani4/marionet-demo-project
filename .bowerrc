@@ -1,0 +1,5 @@
+{
+  "proxy":"http://idc-prx01:8881",
+  "https-proxy":"http://idc-prx01:8881",
+  "analytics": false
+}

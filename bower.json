@@ -1,0 +1,12 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "jquery": "2.1.4",
+    "underscore": "1.8.3",
+    "backbone": "1.2.3",
+    "backbone.marionette": "2.4.3"
+  }
+}
